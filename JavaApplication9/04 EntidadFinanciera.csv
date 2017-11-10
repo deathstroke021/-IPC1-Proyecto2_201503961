@@ -1,0 +1,14 @@
+Código único de entidad,Código único de cliente,Tipo de tarjeta,Código de Tarjeta,Saldo o Acumulado,Monto Máximo o Límite
+1,1,Credito,11111111,4000,10000
+2,2,Credito,22222222,900,8000
+3,3,Debito,33333333,5600,0
+1,4,Credito,44444444,11000,12000
+2,5,Debito,55555555,3501,0
+3,6,Debito,66666666,4000,0
+1,7,Credito,77777777,2200,5000
+2,8,Debito,88888888,8500,0
+3,9,Credito,99999999,12345,15000
+2,10,Credito,10101010,5678,7000
+1,2,Debito,22222222,7680,0
+2,5,Credito,55555555,0,7000
+3,9,Credito,99999999,4000,5000

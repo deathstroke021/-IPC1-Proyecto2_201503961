@@ -1,0 +1,9 @@
+Código único del transporte,codigo de reservacion,número asiento asignado a viajero,clase del asiento,costo del pasaje
+1,1,1,Normal,100
+5,2,1,Primera Clase,200
+5,2,2,Primera Clase,200
+5,2,3,Primera Clase,200
+5,2,4,Primera Clase,200
+3,3,21,Negocios,180
+5,5,50,Normal,125
+7,6,0,Negocios,200

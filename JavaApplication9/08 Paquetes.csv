@@ -1,0 +1,11 @@
+Código único de paquete,Tipo de paquete,Clasificación (subdivisión) de paquete,cantidad de viajeros,código transporte,código hospedaje,código crucero,código rentadora,código destino,código lugar,costo total paquete
+1,Individual,Económico,1,1,2,0,1,1,1,5000
+2,Familiar,Económico,5,0,0,1,0,2,2,4500
+3,Familiar,De Lujo,4,5,3,0,0,3,0,7600
+4,Negocios,Económico,12,2,1,0,2,2,3,25000
+5,Express,De Lujo,1,0,9,1,0,4,3,12000
+6,Personalizado,0,1,2,10,0,0,5,5,2500
+7,Individual,De Lujo,1,0,4,1,1,5,4,9000
+8,Personalizado,0,2,3,9,0,0,4,4,3000
+9,Express,Económico,1,5,6,0,0,1,6,900
+10,Personalizado,0,3,4,7,0,0,3,7,3500

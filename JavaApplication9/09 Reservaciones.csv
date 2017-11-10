@@ -1,0 +1,7 @@
+Código único de reservación,código único de paquete,código único de cliente,fecha de reservación,fecha de salida,cantidad de días del viaje,estado de reservación,saldo pendiente
+1,1,1,11-10-13,18-10-13,5,Pagada,0
+2,3,2,12-10-13,19-10-13,7,Vencida,4000
+3,5,3,13-10-13,15-10-13,10,Reserva,6000
+4,7,11,14-10-13,21-10-13,10,Reserva,3000
+5,9,5,17-10-13,19-10-13,3,En espera,900
+6,12,6,18-10-13,25-10-13,8,Reserva,100
